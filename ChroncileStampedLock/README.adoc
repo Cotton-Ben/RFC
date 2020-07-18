@@ -10,7 +10,7 @@ Specification
 | Change Process | Users issue Pull Requests for the Editor's consideration. |
 | Status  | Raw.                                                        |
 
- Goals
+  Goals
 
 An RFC which embraces the need for a JEP-383 savvy equivalent of the j.u.c.l.StampedLock API.
 A new ChronicleStampedLock capability will greatly empower capital markets
@@ -19,6 +19,8 @@ www.xsede.org, with zero gc) render
 and aggregate
 quantitative RISK metrics (for
 optimistic and intolerant strategies).
+
+For a full description of this RFC = ChronicleStampedLock commentary please refer to the PPTX slides.
 
 image::file1.png[]
 
