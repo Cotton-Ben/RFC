@@ -2,7 +2,7 @@ Specification
 
 |         |                                                             |
 |:------- | ----------------------------------------------------------- |
-| Title   | Wire Format API                                             |
+| Title   | ChronicleStampedLock API                                             |
 | URL     | https://github.com/OpenHFT/RFC/blob/master/ChronicleStampedLock/    |
 | Latest  | https://github.com/OpenHFT/RFC/blob/master/ChronicleStampedLock/ |
 | Editor  | Ben.Cotton@rutgers.edu                                                  |
